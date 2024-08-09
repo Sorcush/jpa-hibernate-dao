@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class JpaHibernateDaoApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(JpaHibernateDaoApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(JpaHibernateDaoApplication.class, args);
+    }
 
 }

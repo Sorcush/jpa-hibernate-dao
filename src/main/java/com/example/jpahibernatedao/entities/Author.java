@@ -1,4 +1,4 @@
-package com.example.jpahibernatedao.dao;
+package com.example.jpahibernatedao.entities;
 
 import jakarta.persistence.*;
 import lombok.Getter;
